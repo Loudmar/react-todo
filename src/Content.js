@@ -19,5 +19,3 @@ const Content = ({ items, handleCheck, handleDelete }) => {
 }
 
 export default Content
-
-/* https://www.youtube.com/watch?v=RVFAyFWO4go 3:44*/
